@@ -1,4 +1,6 @@
 # Portfolio-Project-
-My Portfolio Website
-1. Covid
-2. Nashville housing
+My Data Analyst Portfolio Project Repository
+
+This repository holds all the codes for the portfolio projects that i had created.
+
+I really do hope this is helpful to land my dream job! :D
